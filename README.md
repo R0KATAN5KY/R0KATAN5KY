@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R0KATAN5KY
-- 👀 I’m interested in ... coding!
+- 👀 I’m interested in ... Coding!
 - 🌱 I’m currently learning ... React!
 - 💞️ I’m looking to collaborate on ... Creating a Discord bot!
 - 📫 How to reach me ... shelbytheoz@gmail.com
